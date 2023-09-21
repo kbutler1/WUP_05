@@ -39,6 +39,8 @@ drug_users
 
 ## Descriptive Results
 
+In this corrected version, I have fixed the formatting issues and added some explanatory sections. Make sure to fill in the "Methods" section with details about your analysis methods and any other relevant information. Additionally, you can expand the document with inferential results and conclusions as needed.
+
 ### Graphical Descriptive Results
 
 ```{r}
