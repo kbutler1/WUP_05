@@ -95,5 +95,8 @@ fisher.test(table1)
 
 # Discussion and Conclusion
  
+the "triUmpsal" treatment and infection status among drug users in clinical trials, as indicated by variations in infection rates observed graphically and supported by numerical analysis. However, it's crucial to note that these findings do not establish causation but warrant further research, possibly through randomized controlled trials. Additionally, our study has limitations based on available data. If future research confirms the drug's effectiveness, it could have significant implications for AIDS prevention among drug users, though clinical decisions should rely on comprehensive studies. In summary, our analysis provides initial insights into "triUmpsal's" potential efficacy but underscores the need for rigorous research in public health interventions.
+
+
  
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
