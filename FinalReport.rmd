@@ -35,12 +35,21 @@ drug_users
 
 # Results
 
+
+In the "Results" section, we present our findings in two sub-sections: "Descriptive Results" and "Inferential Results." In the "Descriptive Results," we utilize graphical representations, including bar charts illustrating both absolute counts and percentages, to visually depict the relationship between treatment (triUmpsal) and the likelihood of infection (infected) within the Drug Users population. Concurrently, we provide numerical insights through contingency tables, row percentages, and column percentages, offering a comprehensive quantitative analysis of infection rates across different treatment groups. Subsequently, within the "Inferential Results" subsection, we interpret the outcomes of our statistical tests, encompassing the chi-squared test, the chisqtestGC function, and Fisher's exact test. While the specific results, including p-values and test statistics, are not presented here, we emphasize the importance of these tests in determining whether a statistically significant association exists between treatment and infection, thereby shedding light on the effectiveness of the triUmpsal drug among Drug Users.
+
+
 <!--Divide this section into two sub-sections:  One for your descriptive  results and one for your inferential results.!-->
 
 ## Descriptive Results
 
-In this corrected version, I have fixed the formatting issues and added some explanatory sections. Make sure to fill in the "Methods" section with details about your analysis methods and any other relevant information. Additionally, you can expand the document with inferential results and conclusions as needed.
-
+Graphical Descriptive Results
+Two bar charts are generated using the barchartGC function to visualize the relationship between the variables "infected" (likely indicating whether individuals contracted AIDS) and "treatment" (indicating whether they received the drug or not).
+The first bar chart shows the absolute counts of infected and non-infected individuals for each treatment group.
+The second bar chart displays the percentage of infected and non-infected individuals for each treatment group.
+Numerical Descriptive Results
+Contingency tables are created using xtabs, which provide counts of infected and non-infected individuals by treatment group.
+Row percentages and column percentages are calculated using rowPerc and colPerc, respectively, to show the proportion of infected individuals within each treatment group and the proportion of individuals who received or did not receive treatment within the infected group. 
 
 ### Graphical Descriptive Results
  
